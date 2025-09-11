@@ -1,0 +1,7 @@
+@theme {
+  --breakpoint-xs: 375px;
+}
+
+@theme {
+  --spacing-xs: 375px;
+}

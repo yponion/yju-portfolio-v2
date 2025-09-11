@@ -1,0 +1,39 @@
+{
+  "Common": {
+    "service-name": "넥스트-국제화-템플릿"
+  },
+  "NotFound": {
+    "title": "페이지를 찾을 수 없음",
+    "description": "찾으시는 페이지가\n없는 듯하네요.",
+    "go-to-home": "홈으로 이동",
+    "or-see-our-site-map": "사이트 맵을 확인해보는 건 어떨까요?"
+  },
+  "Sitemap": {
+    "title": "사이트 맵",
+    "home": "홈",
+    "test": "테스트"
+  },
+  "LocaleSwitcher": {
+    "label": "언어 변경",
+    "locale": "{locale, select, en {🇺🇸 English} ko {🇰🇷 한국어} other {Unknown}}"
+  },
+  "ThemeSwitcher": {
+    "light": "라이트",
+    "dark": "다크",
+    "system": "시스템"
+  },
+  "Navigation": {
+    "home": "홈",
+    "test": "테스트"
+  },
+  "Home": {
+    "title": "홈 페이지"
+  },
+  "Test": {
+    "title": "테스트 페이지"
+  },
+  "Footer": {
+    "copyright": "© {year} Yang jeong un. 모든 권리 보유.",
+    "sitemap": "사이트맵"
+  }
+}
