@@ -1,6 +1,6 @@
 {
   "Common": {
-    "service-name": "넥스트-국제화-템플릿"
+    "service-name": "양정운 포트폴리오"
   },
   "NotFound": {
     "title": "페이지를 찾을 수 없음",
@@ -27,13 +27,18 @@
     "test": "테스트"
   },
   "Home": {
-    "title": "홈 페이지"
+    "title": "양정운 포트폴리오",
+    "name": "양정운",
+    "job": "프론트엔드 개발자",
+    "location": "서울특별시",
+    "github": "깃허브",
+    "velog": "벨로그"
   },
   "Test": {
     "title": "테스트 페이지"
   },
   "Footer": {
-    "copyright": "© {year} Yang jeong un. 모든 권리 보유.",
+    "copyright": "© {year} 양정운. 모든 권리 보유.",
     "sitemap": "사이트맵"
   }
 }
