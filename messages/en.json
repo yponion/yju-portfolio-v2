@@ -1,6 +1,6 @@
 {
   "Common": {
-    "service-name": "next-intl-template"
+    "service-name": "YJU's Portfolio"
   },
   "NotFound": {
     "title": "Page Not Found",
@@ -27,13 +27,18 @@
     "test": "Test"
   },
   "Home": {
-    "title": "home page"
+    "title": "YJU's Portfolio",
+    "name": "Jeongun Yang",
+    "job": "Frontend Developer",
+    "location": "Seoul",
+    "github": "Github",
+    "velog": "velog"
   },
   "Test": {
     "title": "test page"
   },
   "Footer": {
-    "copyright": "© {year} Yang jeong un. All rights reserved.",
+    "copyright": "© {year} Jeongun Yang. All rights reserved.",
     "sitemap": "Sitemap"
   }
 }

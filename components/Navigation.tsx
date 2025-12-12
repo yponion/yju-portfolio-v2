@@ -57,7 +57,9 @@ export default function Navigation({
         )}
       >
         <div className="max-w-5xl justify-between flex-1 flex items-center">
-          <Link href="/">{commonT('service-name')}</Link>
+          <Link href="/" className="break-keep">
+            {commonT('service-name')}
+          </Link>
           <div
             className={cn(
               'max-lg:bg-background max-lg:px-4 max-lg:transition-all max-lg:w-screen max-lg:duration-300 max-lg:block max-lg:h-0 max-lg:overflow-hidden max-lg:absolute max-lg:top-16 max-lg:left-0 max-lg:z-10',
